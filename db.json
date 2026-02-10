@@ -3,7 +3,7 @@
 	{
 		"uid": "488254bc-6499-4d8b-b037-ada10d9a7393",
 		"uid_r": "f8433ff4-bb03-4a22-a5b3-b49b8a40e00f",
-		"type_tiers": 0,
+		"enum_type_tiers": "PHYSIQUE",
 		"nom": "NOM 1",
 		"prenom":"PRENOM 1",
 		"date_naissance":"10/02/1990",
@@ -13,7 +13,7 @@
 	{
 		"uid": "b553288a-ec6a-401e-aeff-7abf22bf7d36",
 		"uid_r": "f8433ff4-bb03-4a22-a5b3-b49b8a40e00f",
-		"type_tiers": 1,
+		"enum_type_tiers": "MORALE",
 		"nom": "NOM 2",
 		"prenom":"PRENOM 2",
 		"date_naissance":"09/02/1990",
@@ -24,7 +24,7 @@
 	{
 		"uid": "3b4a82fc-f599-4980-aa5c-c7c3fdf0340b",
 		"uid_r": "f8433ff4-bb03-4a22-a5b3-b49b8a40e00f",
-		"type_tiers": 0,
+		"enum_type_tiers": "PHYSIQUE",
 		"nom": "NOM 3",
 		"prenom":"PRENOM 3",
 		"date_naissance":"08/02/1990",
@@ -34,7 +34,7 @@
 	{
 		"uid": "4b1cf511-c733-4ac5-a3ec-04407336c640",
 		"uid_r": "01d268d8-fed9-41dd-9373-19d06059a289",
-		"type_tiers": 1,
+		"enum_type_tiers": "MORALE",
 		"nom": "NOM 4",
 		"prenom":"PRENOM 4",
 		"date_naissance":"09/01/1990",
@@ -45,7 +45,7 @@
 	{
 		"uid": "64175a2e-bb9a-44ea-aa87-0a07d0b16f57",
 		"uid_r": "01d268d8-fed9-41dd-9373-19d06059a289",
-		"type_tiers": 0,
+		"enum_type_tiers": "PHYSIQUE",
 		"nom": "NOM 5",
 		"prenom":"PRENOM 5",
 		"date_naissance":"15/01/1990",
