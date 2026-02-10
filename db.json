@@ -6,7 +6,7 @@
 		"enum_type_tiers": "PHYSIQUE",
 		"nom": "NOM 1",
 		"prenom":"PRENOM 1",
-		"date_naissance":"10/02/1990",
+		"date_naissance":"10/02/1990 00:00:00.000",
 		"mail":"n.prenom1@gmail.com",
 		"telephone":"0101010101"
 	},
@@ -16,7 +16,7 @@
 		"enum_type_tiers": "MORALE",
 		"nom": "NOM 2",
 		"prenom":"PRENOM 2",
-		"date_naissance":"09/02/1990",
+		"date_naissance":"09/02/1990 00:00:00.000",
 		"raison_sociale":"ENTREPRISE 2",
 		"mail":"entreprise2@gmail.com",
 		"telephone":"0202020202"
@@ -27,7 +27,7 @@
 		"enum_type_tiers": "PHYSIQUE",
 		"nom": "NOM 3",
 		"prenom":"PRENOM 3",
-		"date_naissance":"08/02/1990",
+		"date_naissance":"08/02/1990 00:00:00.000",
 		"mail":"n.prenom3@gmail.com",
 		"telephone":"0303030303"
 	},
@@ -37,7 +37,7 @@
 		"enum_type_tiers": "MORALE",
 		"nom": "NOM 4",
 		"prenom":"PRENOM 4",
-		"date_naissance":"09/01/1990",
+		"date_naissance":"09/01/1990 00:00:00.000",
 		"raison_sociale":"ENTREPRISE 4",
 		"mail":"entreprise4@gmail.com",
 		"telephone":"0404040404"
@@ -48,7 +48,7 @@
 		"enum_type_tiers": "PHYSIQUE",
 		"nom": "NOM 5",
 		"prenom":"PRENOM 5",
-		"date_naissance":"15/01/1990",
+		"date_naissance":"15/01/1990 00:00:00.000",
 		"mail":"p.nom5@gmail.com",
 		"telephone":"0505050505"
 	}
