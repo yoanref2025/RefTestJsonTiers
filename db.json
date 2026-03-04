@@ -3,6 +3,7 @@
 	{
 		"uid": "488254bc-6499-4d8b-b037-ada10d9a7393",
 		"uid_r": "f8433ff4-bb03-4a22-a5b3-b49b8a40e00f",
+	    "uid_ts": "b694a335-e7b2-448a-baa1-78a2debf257d",
 		"enum_type_tiers": "PHYSIQUE",
 		"nom": "NOM 1",
 		"prenom":"PRENOM 1",
@@ -13,6 +14,7 @@
 	{
 		"uid": "b553288a-ec6a-401e-aeff-7abf22bf7d36",
 		"uid_r": "f8433ff4-bb03-4a22-a5b3-b49b8a40e00f",
+		"uid_ts": "b694a335-e7b2-448a-baa1-78a2debf257d",
 		"enum_type_tiers": "MORALE",
 		"nom": "NOM 2",
 		"prenom":"PRENOM 2",
@@ -24,6 +26,7 @@
 	{
 		"uid": "3b4a82fc-f599-4980-aa5c-c7c3fdf0340b",
 		"uid_r": "f8433ff4-bb03-4a22-a5b3-b49b8a40e00f",
+		"uid_ts": "e893df67-a38e-4eb8-a0e1-0b8f53692273",
 		"enum_type_tiers": "PHYSIQUE",
 		"nom": "NOM 3",
 		"prenom":"PRENOM 3",
@@ -34,6 +37,7 @@
 	{
 		"uid": "4b1cf511-c733-4ac5-a3ec-04407336c640",
 		"uid_r": "01d268d8-fed9-41dd-9373-19d06059a289",
+		"uid_ts": "b694a335-e7b2-448a-baa1-78a2debf257d",
 		"enum_type_tiers": "MORALE",
 		"nom": "NOM 4",
 		"prenom":"PRENOM 4",
@@ -45,6 +49,7 @@
 	{
 		"uid": "64175a2e-bb9a-44ea-aa87-0a07d0b16f57",
 		"uid_r": "01d268d8-fed9-41dd-9373-19d06059a289",
+	    "uid_ts": "b694a335-e7b2-448a-baa1-78a2debf257d",
 		"enum_type_tiers": "PHYSIQUE",
 		"nom": "NOM 5",
 		"prenom":"PRENOM 5",
